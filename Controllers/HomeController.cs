@@ -15,6 +15,15 @@ public class HomeController : Controller
 
     public IActionResult Index()
     {
+        inicializarDisco.Cargardiscos();
+        ViewBag.diccio = inicializarDisco.Cargardiscos();
         return View();
     }
+     public IActionResult MostrarTemas(string key)
+    {
+         Dictionary<string, disco> diccio = inicializarDisco.Cargardiscos();
+        ViewBag.temasDiscoDeterminado = diccio[key].temas;
+        return View();
+    }
+    
 }

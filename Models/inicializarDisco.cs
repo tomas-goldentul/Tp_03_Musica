@@ -1,22 +1,22 @@
 class inicializarDisco
 {
-    static Dictionary<string, disco> discos { get; set; }
+     static Dictionary<string, disco> discos { get; set; }
     static Dictionary<string, tema> temas { get; set; }
-    public static void Cargardiscos()
+    public static Dictionary<string, disco> Cargardiscos()
 {
     discos = new Dictionary<string, disco>();
     temas = new Dictionary<string, tema>();
     tema tema;
 
-    // Álbum 1 (Ejemplo cambiado)
+    // Álbum 1 
     tema = new tema("Get Lucky");
     temas.Add("1-1", tema);
     tema = new tema("Lose Yourself to Dance");
     temas.Add("1-2", tema);
     tema = new tema("Instant Crush");
     temas.Add("1-3", tema);
-    disco disco1 = new disco("Daft Punk", "Random Access Memories", "Electrónica", "1", "", temas);
-    discos.Add("1", disco1);
+    disco disco1 = new disco("Daft Punk", "Thomas Bangalter, Guy-Manuel de Homem-Christo", "Electrónica", "1", "", temas);
+    discos.Add("Random Access Memories", disco1);
 
     // Álbum 2
     temas = new Dictionary<string, tema>();
@@ -26,8 +26,8 @@ class inicializarDisco
     temas.Add("2-2", tema);
     tema = new tema("Snow on the Beach");
     temas.Add("2-3", tema);
-    disco disco2 = new disco("Taylor Swift", "Midnights", "Pop", "2", "", temas);
-    discos.Add("2", disco2);
+    disco disco2 = new disco("Taylor Swift", "Jack Antonoff", "Pop", "2", "", temas);
+    discos.Add("Midnights", disco2);
 
     // Álbum 3
     temas = new Dictionary<string, tema>();
@@ -37,8 +37,8 @@ class inicializarDisco
     temas.Add("3-2", tema);
     tema = new tema("Everglow");
     temas.Add("3-3", tema);
-    disco disco3 = new disco("Coldplay", "A Head Full of Dreams", "Rock", "3", "", temas);
-    discos.Add("3", disco3);
+    disco disco3 = new disco("Coldplay", "Coldplay, Rik Simpson", "Rock", "3", "", temas);
+    discos.Add("A Head Full of Dreams", disco3);
 
     // Álbum 4
     temas = new Dictionary<string, tema>();
@@ -48,8 +48,8 @@ class inicializarDisco
     temas.Add("4-2", tema);
     tema = new tema("In Your Eyes");
     temas.Add("4-3", tema);
-    disco disco4 = new disco("The Weeknd", "After Hours", "R&B", "4", "", temas);
-    discos.Add("4", disco4);
+    disco disco4 = new disco("The Weeknd", "Max Martin, The Weeknd", "R&B", "4", "", temas);
+    discos.Add("After Hours", disco4);
 
     // Álbum 5
     temas = new Dictionary<string, tema>();
@@ -59,8 +59,8 @@ class inicializarDisco
     temas.Add("5-2", tema);
     tema = new tema("Ojitos Lindos");
     temas.Add("5-3", tema);
-    disco disco5 = new disco("Bad Bunny", "Un Verano Sin Ti", "Reggaetón", "5", "", temas);
-    discos.Add("5", disco5);
+    disco disco5 = new disco("Bad Bunny", "Tainy", "Reggaetón", "5", "", temas);
+    discos.Add("Un Verano Sin Ti", disco5);
 
     // Álbum 6
     temas = new Dictionary<string, tema>();
@@ -70,8 +70,8 @@ class inicializarDisco
     temas.Add("6-2", tema);
     tema = new tema("Disposable Heroes");
     temas.Add("6-3", tema);
-    disco disco6 = new disco("Metallica", "Master of Puppets", "Metal", "6", "", temas);
-    discos.Add("6", disco6);
+    disco disco6 = new disco("Metallica", "Flemming Rasmussen", "Metal", "6", "", temas);
+    discos.Add("Master of Puppets", disco6);
 
     // Álbum 7
     temas = new Dictionary<string, tema>();
@@ -81,8 +81,8 @@ class inicializarDisco
     temas.Add("7-2", tema);
     tema = new tema("You're My Best Friend");
     temas.Add("7-3", tema);
-    disco disco7 = new disco("Queen", "A Night at the Opera", "Rock", "7", "", temas);
-    discos.Add("7", disco7);
+    disco disco7 = new disco("Queen", "Roy Thomas Baker", "Rock", "7", "", temas);
+    discos.Add("A Night at the Opera", disco7);
 
     // Álbum 8
     temas = new Dictionary<string, tema>();
@@ -92,8 +92,8 @@ class inicializarDisco
     temas.Add("8-2", tema);
     tema = new tema("Till I Collapse");
     temas.Add("8-3", tema);
-    disco disco8 = new disco("Eminem", "The Eminem Show", "Rap", "8", "", temas);
-    discos.Add("8", disco8);
+    disco disco8 = new disco("Eminem", "Dr. Dre", "Rap", "8", "", temas);
+    discos.Add("The Eminem Show", disco8);
 
     // Álbum 9
     temas = new Dictionary<string, tema>();
@@ -103,8 +103,8 @@ class inicializarDisco
     temas.Add("9-2", tema);
     tema = new tema("Water Under the Bridge");
     temas.Add("9-3", tema);
-    disco disco9 = new disco("Adele", "25", "Soul", "9", "", temas);
-    discos.Add("9", disco9);
+    disco disco9 = new disco("Adele", "Greg Kurstin", "Soul", "9", "", temas);
+    discos.Add("25", disco9);
 
     // Álbum 10
     temas = new Dictionary<string, tema>();
@@ -114,8 +114,8 @@ class inicializarDisco
     temas.Add("10-2", tema);
     tema = new tema("Hold Up");
     temas.Add("10-3", tema);
-    disco disco10 = new disco("Beyoncé", "Lemonade", "R&B", "10", "", temas);
-    discos.Add("10", disco10);
+    disco disco10 = new disco("Beyoncé", "Beyoncé, Diplo, Ezra Koenig", "R&B", "10", "", temas);
+    discos.Add("Lemonade", disco10);
 
     // Álbum 11
     temas = new Dictionary<string, tema>();
@@ -125,8 +125,8 @@ class inicializarDisco
     temas.Add("11-2", tema);
     tema = new tema("Perfect");
     temas.Add("11-3", tema);
-    disco disco11 = new disco("Ed Sheeran", "Divide", "Pop", "11", "", temas);
-    discos.Add("11", disco11);
+    disco disco11 = new disco("Ed Sheeran", "Ed Sheeran, Benny Blanco", "Pop", "11", "", temas);
+    discos.Add("Divide", disco11);
     
     // Álbum 12
     temas = new Dictionary<string, tema>();
@@ -136,8 +136,8 @@ class inicializarDisco
     temas.Add("12-2", tema);
     tema = new tema("Eventually");
     temas.Add("12-3", tema);
-    disco disco12 = new disco("Tame Impala", "Currents", "Psychedelic Rock", "12", "", temas);
-    discos.Add("12", disco12);
+    disco disco12 = new disco("Tame Impala", "Kevin Parker", "Psychedelic Rock", "12", "", temas);
+    discos.Add("Currents", disco12);
+    return discos;
 }
-
 }
