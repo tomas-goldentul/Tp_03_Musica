@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "z5uvxLH5KLDnKYkIXyiFHJs1Ls4LBAwx5NVrOu3CSKE=",
+  "Hash": "Vax7NpDkCaxpMrU6uUiLe8EBlI8+pj1fexbhKWpE/1E=",
   "Source": "Tp_03_Musica",
   "BasePath": "_content/Tp_03_Musica",
   "Mode": "Default",
@@ -53,6 +53,25 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\favicon.ico"
+    },
+    {
+      "Identity": "Z:\\prog\\Tp_03_Musica\\wwwroot\\image\\logo la tropa.png",
+      "SourceId": "Tp_03_Musica",
+      "SourceType": "Discovered",
+      "ContentRoot": "Z:\\prog\\Tp_03_Musica\\wwwroot\\",
+      "BasePath": "_content/Tp_03_Musica",
+      "RelativePath": "image/logo la tropa.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\image\\logo la tropa.png"
     },
     {
       "Identity": "Z:\\prog\\Tp_03_Musica\\wwwroot\\js\\site.js",

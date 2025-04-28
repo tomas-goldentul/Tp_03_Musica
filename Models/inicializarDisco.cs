@@ -15,7 +15,7 @@ class inicializarDisco
     temas.Add("1-2", tema);
     tema = new tema("Instant Crush");
     temas.Add("1-3", tema);
-    disco disco1 = new disco("Daft Punk", "Thomas Bangalter, Guy-Manuel de Homem-Christo", "Electrónica", "1", "", temas);
+    disco disco1 = new disco("Daft Punk", "Thomas Bangalter, Guy-Manuel de Homem-Christo", "Electrónica", "1", "/image/after hours.jpg", temas);
     discos.Add("Random Access Memories", disco1);
 
     // Álbum 2

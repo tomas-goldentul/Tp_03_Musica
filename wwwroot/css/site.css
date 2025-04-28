@@ -1,23 +1,51 @@
 html {
   font-size: 14px;
   min-height: 100%;
+  padding: 0%;
+  margin: 0%;
 }
 
 @media (min-width: 768px) {
   html {
     font-size: 16px;
   }
+}header{
+  background-color: aliceblue;
 }
+header img{
+width: 20%;
+height: auto;
+margin-left: 39%;
+}
+
 
 body {
   margin: 10px;
   padding: 10px;
 }
-
+div{
+  border: 1px solid black;
+  width: 20%;
+  height: auto;
+  float: right;
+  margin: 25px;
+  padding: 1%;
+  text-align: center;
+}
+.inicio{
+  border: none;
+width: 100%;
+text-align: center;
+font-size: 2.2em;
+}
+section{
+  clear: both;
+}
 
 footer {
   margin-top: 10px;
   padding: 10px;
   background-color: #f8f9fa;
   border-top: 1px solid #e9ecef;
+  clear: both;
 }

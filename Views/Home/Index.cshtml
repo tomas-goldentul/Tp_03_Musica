@@ -1,17 +1,19 @@
 ﻿@{
     ViewData["Title"] = "Index";
 }
-
-<div>
-    <h1>Index</h1>
-    <p>Bienvenidos al sitio web de NombreProyecto </p>
-    
+<section>
+<div class = "inicio">
+    <h1>Repertorio: </h1>
+   </div>
+</section>
+<section>
     @foreach(KeyValuePair<string, disco> disco in @ViewBag.diccio){
-        <p>@disco.Key</p>
+       <div> <p>@disco.Key</p>
+       
         <p>@disco.Value.artista</p>
         <p>@disco.Value.genero</p>
         <p>@disco.Value.productor</p>
         <a href='@Url.Action("MostrarTemas", "Home", new { key = disco.Key })'>Ver Temas</a>
+    </div>
+</section>
     }
-    
-</div>

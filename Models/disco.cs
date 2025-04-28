@@ -6,6 +6,7 @@ class disco
    public Dictionary<string, tema> temas { get; set; }
   public  string id { get; }
   public  string foto { get; set; }
+
     public disco(string artista, string productor, string genero, string id, string foto, Dictionary<string, tema> temas)
     {
         this.artista = artista;
