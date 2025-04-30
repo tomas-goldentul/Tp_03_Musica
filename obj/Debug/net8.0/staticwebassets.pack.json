@@ -1,71 +1,123 @@
 {
   "Files": [
     {
-      "Id": "Z:\\prog\\Tp_03_Musica\\wwwroot\\css\\site.css",
+      "Id": "C:\\Users\\golde\\Documents\\programacion\\Tp_03_Musica\\wwwroot\\css\\site.css",
       "PackagePath": "staticwebassets\\css\\site.css"
     },
     {
-      "Id": "Z:\\prog\\Tp_03_Musica\\wwwroot\\favicon.ico",
+      "Id": "C:\\Users\\golde\\Documents\\programacion\\Tp_03_Musica\\wwwroot\\favicon.ico",
       "PackagePath": "staticwebassets\\favicon.ico"
     },
     {
-      "Id": "Z:\\prog\\Tp_03_Musica\\wwwroot\\image\\after hours.jpg",
+      "Id": "C:\\Users\\golde\\Documents\\programacion\\Tp_03_Musica\\wwwroot\\image\\25.jpg",
+      "PackagePath": "staticwebassets\\image\\25.jpg"
+    },
+    {
+      "Id": "C:\\Users\\golde\\Documents\\programacion\\Tp_03_Musica\\wwwroot\\image\\A Head Full of Dreams.jpg",
+      "PackagePath": "staticwebassets\\image\\A Head Full of Dreams.jpg"
+    },
+    {
+      "Id": "C:\\Users\\golde\\Documents\\programacion\\Tp_03_Musica\\wwwroot\\image\\A Night at the Opera.jpg",
+      "PackagePath": "staticwebassets\\image\\A Night at the Opera.jpg"
+    },
+    {
+      "Id": "C:\\Users\\golde\\Documents\\programacion\\Tp_03_Musica\\wwwroot\\image\\Currents.jpg",
+      "PackagePath": "staticwebassets\\image\\Currents.jpg"
+    },
+    {
+      "Id": "C:\\Users\\golde\\Documents\\programacion\\Tp_03_Musica\\wwwroot\\image\\Divide.jpg",
+      "PackagePath": "staticwebassets\\image\\Divide.jpg"
+    },
+    {
+      "Id": "C:\\Users\\golde\\Documents\\programacion\\Tp_03_Musica\\wwwroot\\image\\Fondo.jfif",
+      "PackagePath": "staticwebassets\\image\\Fondo.jfif"
+    },
+    {
+      "Id": "C:\\Users\\golde\\Documents\\programacion\\Tp_03_Musica\\wwwroot\\image\\Lemonade.jpg",
+      "PackagePath": "staticwebassets\\image\\Lemonade.jpg"
+    },
+    {
+      "Id": "C:\\Users\\golde\\Documents\\programacion\\Tp_03_Musica\\wwwroot\\image\\Master of Puppets.jpg",
+      "PackagePath": "staticwebassets\\image\\Master of Puppets.jpg"
+    },
+    {
+      "Id": "C:\\Users\\golde\\Documents\\programacion\\Tp_03_Musica\\wwwroot\\image\\Midnights.jpg",
+      "PackagePath": "staticwebassets\\image\\Midnights.jpg"
+    },
+    {
+      "Id": "C:\\Users\\golde\\Documents\\programacion\\Tp_03_Musica\\wwwroot\\image\\Random Access Memories.jpg",
+      "PackagePath": "staticwebassets\\image\\Random Access Memories.jpg"
+    },
+    {
+      "Id": "C:\\Users\\golde\\Documents\\programacion\\Tp_03_Musica\\wwwroot\\image\\The Eminem Show.jpg",
+      "PackagePath": "staticwebassets\\image\\The Eminem Show.jpg"
+    },
+    {
+      "Id": "C:\\Users\\golde\\Documents\\programacion\\Tp_03_Musica\\wwwroot\\image\\Thumbs.db",
+      "PackagePath": "staticwebassets\\image\\Thumbs.db"
+    },
+    {
+      "Id": "C:\\Users\\golde\\Documents\\programacion\\Tp_03_Musica\\wwwroot\\image\\Un Verano Sin Ti.jpg",
+      "PackagePath": "staticwebassets\\image\\Un Verano Sin Ti.jpg"
+    },
+    {
+      "Id": "C:\\Users\\golde\\Documents\\programacion\\Tp_03_Musica\\wwwroot\\image\\after hours.jpg",
       "PackagePath": "staticwebassets\\image\\after hours.jpg"
     },
     {
-      "Id": "Z:\\prog\\Tp_03_Musica\\wwwroot\\image\\logo la tropa.png",
+      "Id": "C:\\Users\\golde\\Documents\\programacion\\Tp_03_Musica\\wwwroot\\image\\logo la tropa.png",
       "PackagePath": "staticwebassets\\image\\logo la tropa.png"
     },
     {
-      "Id": "Z:\\prog\\Tp_03_Musica\\wwwroot\\js\\site.js",
+      "Id": "C:\\Users\\golde\\Documents\\programacion\\Tp_03_Musica\\wwwroot\\js\\site.js",
       "PackagePath": "staticwebassets\\js\\site.js"
     },
     {
-      "Id": "Z:\\prog\\Tp_03_Musica\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "Id": "C:\\Users\\golde\\Documents\\programacion\\Tp_03_Musica\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
       "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
     },
     {
-      "Id": "Z:\\prog\\Tp_03_Musica\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+      "Id": "C:\\Users\\golde\\Documents\\programacion\\Tp_03_Musica\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
       "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js"
     },
     {
-      "Id": "Z:\\prog\\Tp_03_Musica\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
+      "Id": "C:\\Users\\golde\\Documents\\programacion\\Tp_03_Musica\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
       "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js"
     },
     {
-      "Id": "Z:\\prog\\Tp_03_Musica\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "Id": "C:\\Users\\golde\\Documents\\programacion\\Tp_03_Musica\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
       "PackagePath": "staticwebassets\\lib\\jquery-validation\\LICENSE.md"
     },
     {
-      "Id": "Z:\\prog\\Tp_03_Musica\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "Id": "C:\\Users\\golde\\Documents\\programacion\\Tp_03_Musica\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
       "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.js"
     },
     {
-      "Id": "Z:\\prog\\Tp_03_Musica\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "Id": "C:\\Users\\golde\\Documents\\programacion\\Tp_03_Musica\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
       "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.min.js"
     },
     {
-      "Id": "Z:\\prog\\Tp_03_Musica\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "Id": "C:\\Users\\golde\\Documents\\programacion\\Tp_03_Musica\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
       "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.js"
     },
     {
-      "Id": "Z:\\prog\\Tp_03_Musica\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "Id": "C:\\Users\\golde\\Documents\\programacion\\Tp_03_Musica\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
       "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.min.js"
     },
     {
-      "Id": "Z:\\prog\\Tp_03_Musica\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "Id": "C:\\Users\\golde\\Documents\\programacion\\Tp_03_Musica\\wwwroot\\lib\\jquery\\LICENSE.txt",
       "PackagePath": "staticwebassets\\lib\\jquery\\LICENSE.txt"
     },
     {
-      "Id": "Z:\\prog\\Tp_03_Musica\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "Id": "C:\\Users\\golde\\Documents\\programacion\\Tp_03_Musica\\wwwroot\\lib\\jquery\\dist\\jquery.js",
       "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.js"
     },
     {
-      "Id": "Z:\\prog\\Tp_03_Musica\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "Id": "C:\\Users\\golde\\Documents\\programacion\\Tp_03_Musica\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
       "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.js"
     },
     {
-      "Id": "Z:\\prog\\Tp_03_Musica\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "Id": "C:\\Users\\golde\\Documents\\programacion\\Tp_03_Musica\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
       "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.map"
     },
     {

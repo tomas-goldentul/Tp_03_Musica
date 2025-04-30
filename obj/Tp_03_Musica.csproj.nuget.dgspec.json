@@ -1,24 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "Z:\\prog\\Tp_03_Musica\\Tp_03_Musica.csproj": {}
+    "C:\\Users\\golde\\Documents\\programacion\\Tp_03_Musica\\Tp_03_Musica.csproj": {}
   },
   "projects": {
-    "Z:\\prog\\Tp_03_Musica\\Tp_03_Musica.csproj": {
+    "C:\\Users\\golde\\Documents\\programacion\\Tp_03_Musica\\Tp_03_Musica.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "Z:\\prog\\Tp_03_Musica\\Tp_03_Musica.csproj",
+        "projectUniqueName": "C:\\Users\\golde\\Documents\\programacion\\Tp_03_Musica\\Tp_03_Musica.csproj",
         "projectName": "Tp_03_Musica",
-        "projectPath": "Z:\\prog\\Tp_03_Musica\\Tp_03_Musica.csproj",
-        "packagesPath": "C:\\Users\\49319223\\.nuget\\packages\\",
-        "outputPath": "Z:\\prog\\Tp_03_Musica\\obj\\",
+        "projectPath": "C:\\Users\\golde\\Documents\\programacion\\Tp_03_Musica\\Tp_03_Musica.csproj",
+        "packagesPath": "C:\\Users\\golde\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\golde\\Documents\\programacion\\Tp_03_Musica\\obj\\",
         "projectStyle": "PackageReference",
-        "fallbackFolders": [
-          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
-        ],
         "configFilePaths": [
-          "C:\\Users\\49319223\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Users\\golde\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -26,6 +22,7 @@
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
@@ -67,7 +64,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.206/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.407/PortableRuntimeIdentifierGraph.json"
         }
       }
     }
