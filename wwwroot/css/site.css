@@ -1,48 +1,74 @@
+*{
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  font-size: 0.95em;
+}
 html {
   font-size: 14px;
   min-height: 100%;
   padding: 0%;
   margin: 0%;
+  background-image: url("/image/Fondo.jfif");
+  background-size: cover;
+  background-position: center;
+  background-repeat: no-repeat;
 }
 
 @media (min-width: 768px) {
   html {
     font-size: 16px;
   }
-}header{
-  background-color: aliceblue;
 }
 header img{
 width: 20%;
 height: auto;
-margin-left: 39%;
+margin-left: 41%;
+
 }
 
 
 body {
-  margin: 10px;
-  padding: 10px;
+  margin: 1%;
+  padding: 1%;
 }
 div{
-  border: 1px solid black;
   width: 20%;
   height: auto;
   float: right;
   margin: 25px;
   padding: 1%;
   text-align: center;
+  border-radius: 10px;
+  background-color: aliceblue
 }
-.inicio{
-  border: none;
-width: 100%;
-text-align: center;
-font-size: 2.2em;
+div a{
+  text-decoration: none;
+  background-color: rgb(230, 230, 230);
+  border-radius: 10px;
+  padding: 2%;
+  box-shadow: 3px 3px 3px lightgray;
+  color:rgb(90, 90, 90);
+}
+section img{
+  width: 300px;
+  height: 300px;
 }
 section{
   clear: both;
 }
+ol li{
+  padding: 1%;
+  width: 20%;
+  margin-left: 36%;
+  text-align: center;
+  color: white;
+  background-color: rgba(127, 161, 199, 0.651);
+  border-radius: 30px;
+  margin-bottom: 1%;
+  box-shadow: 3px 3px 3px lightgray;
+}
 
 footer {
+  margin: 0%;
   margin-top: 10px;
   padding: 10px;
   background-color: #f8f9fa;

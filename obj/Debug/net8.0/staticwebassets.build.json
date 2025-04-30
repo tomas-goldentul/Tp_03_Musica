@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "Vax7NpDkCaxpMrU6uUiLe8EBlI8+pj1fexbhKWpE/1E=",
+  "Hash": "GoWVi58OM9Lxhxj+0utpKeB4C3AgBYEVkJw3b4X80fI=",
   "Source": "Tp_03_Musica",
   "BasePath": "_content/Tp_03_Musica",
   "Mode": "Default",
@@ -53,6 +53,25 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\favicon.ico"
+    },
+    {
+      "Identity": "Z:\\prog\\Tp_03_Musica\\wwwroot\\image\\after hours.jpg",
+      "SourceId": "Tp_03_Musica",
+      "SourceType": "Discovered",
+      "ContentRoot": "Z:\\prog\\Tp_03_Musica\\wwwroot\\",
+      "BasePath": "_content/Tp_03_Musica",
+      "RelativePath": "image/after hours.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\image\\after hours.jpg"
     },
     {
       "Identity": "Z:\\prog\\Tp_03_Musica\\wwwroot\\image\\logo la tropa.png",
